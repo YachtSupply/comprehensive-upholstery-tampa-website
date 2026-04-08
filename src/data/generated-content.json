@@ -38,6 +38,26 @@
       "Sarasota, FL",
       "Bradenton, FL"
     ],
-    "serviceAreaTitle": "Our Service Area"
-  }
+    "serviceAreaTitle": "Our Service Area",
+    "reviewSynopsis": {
+      "aggregateRating": 4.9,
+      "totalReviewCount": 123,
+      "boatworkReviewCount": 0,
+      "googleReviewCount": 123,
+      "summary": "Our clients consistently rate us among the best in the business, with 123 Google reviews averaging an outstanding 4.9 out of 5 stars. We take pride in the fact that customers repeatedly highlight the quality of our craftsmanship and their satisfaction with the finished results. It means everything to us that so many clients trust us with their upholstery needs and take the time to share such positive feedback.",
+      "keywords": [
+        "upholstery services",
+        "quality craftsmanship",
+        "customer satisfaction",
+        "professional workmanship",
+        "furniture restoration",
+        "attention to detail",
+        "reliable service"
+      ],
+      "sources": [
+        "google"
+      ]
+    }
+  },
+  "synopsisUpdatedAt": "2026-04-08T13:19:26.130Z"
 }
